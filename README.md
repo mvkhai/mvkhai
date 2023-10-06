@@ -1,19 +1,16 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&color=F73D3D&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Mai+Van+Khai!;" />
+</h1>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khraiteka&label=Profile%20views&color=0e75b6&style=flat" alt="khraiteka" /> </p>
 
+- 🌱 I’m I am a **VKU** student
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@392c3515-8a19-481e-89e4-30bb7a1fc9f3)
+- 👨‍💻 All of my projects are available at [https://github.com/mvkhai](https://github.com/mvkhai)
 
-<h3 align="center">
-        <samp>&gt; Hi 👋, I'm 
-                <b><a target="_blank" href="">Van Mai Khai</a></b>
-        </samp>
-</h3>
-<p align="center">
-        <!-- Organisation  -->
-        <samp>
-          <a href="">「 Google Me 」</a>
-                <br>
-                「 I am a backend developer from <b>Vietnam</b> 」
-                <br>
-          <br><br>
-        </samp>
-    </p>
+- 📫 How to reach me **khraiteka@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/khraiteka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__a_error69__" height="30" width="40" /></a>
+</p>
