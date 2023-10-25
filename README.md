@@ -8,9 +8,3 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mvkhai](https://github.com/mvkhai)
 
-- 📫 How to reach me **khraiteka@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/khraiteka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__a_error69__" height="30" width="40" /></a>
-</p>
